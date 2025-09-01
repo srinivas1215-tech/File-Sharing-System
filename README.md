@@ -7,8 +7,6 @@ Features
 
 📤 Send & Receive Files – Real-time file transfer via WebRTC
 
-📡 Wi-Fi & Bluetooth Sharing – Multiple connectivity options
-
 📂 File Management – View, track, and manage file transfers
 
 🔒 Data Security – End-to-end encryption using  bcrypt
@@ -16,6 +14,8 @@ Features
 📊 Database Integration – MongoDB Atlas for saving file records
 
 🌐 Modern Tech Stack – Built with React.js, Node.js, Express.js, MongoDB
+
+
 
 🛠️ Tech Stack
 
